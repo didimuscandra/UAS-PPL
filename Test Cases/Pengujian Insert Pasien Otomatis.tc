@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengujian Insert Pasien Otomatis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76262615-cb1d-4571-ae01-6b7ac6809c3b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e80085d7-14e5-4f40-95e6-4d3a235b2665</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68b3f74b-3ae9-4492-9e5e-a52e79a6d5a1</id>
+      <masked>false</masked>
+      <name>nomerRekam</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d16d8eb8-4e0b-45ee-bbea-6c201fc48c8b</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df2bc100-9664-4845-ab41-b9d91ba02ef0</id>
+      <masked>false</masked>
+      <name>tglLahir</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02bb81f2-a2a9-45a3-9b85-1b9e13145f2d</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
